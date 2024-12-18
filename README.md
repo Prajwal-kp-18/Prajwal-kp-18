@@ -18,7 +18,7 @@
 
 ###
 
-<div align="center">
+<div align="center"}>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
@@ -35,7 +35,7 @@
   <img width="15" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo"  />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="50" alt="react logo"  />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="54" height="54" />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="50" alt="postman logo"  />
   <img width="15" />
