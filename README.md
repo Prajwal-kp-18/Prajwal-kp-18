@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me 😁</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with 🧑‍💻</h2>
 
 ###
 
@@ -62,7 +62,7 @@
 
 ###
 
-<h2 align="left">Social Links 🔗</h2>
+<h2 align="left">Social Links 🌐</h2>
 
 ###
 
@@ -74,6 +74,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###  
+
+<h2 align="left">Github Stats 📈</h2>  
 
 ###
 
