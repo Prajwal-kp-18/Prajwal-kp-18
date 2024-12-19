@@ -77,7 +77,8 @@
 
 ###  
 
-<h2 align="left">Github Stats 📈</h2>  
+<h2 align="left">Github Stats 📈 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwal-kp-18&label=Profile%20views&color=0e75b6&style=flat" alt="prajwal-kp-18" /> </p>
+</h2>  
 
 ###
 
