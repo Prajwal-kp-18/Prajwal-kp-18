@@ -1,9 +1,9 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 <h4 align="left">
-  Hi, I'm <b>Prajwal</b> — a curious mind from Bengaluru who loves exploring the depths of computing. 
+  Hi, I'm <b>Prajwal</b> a curious mind from Bengaluru who loves exploring the depths of computing. 
   I started my journey building sleek web applications, then got hooked on infrastructure automation with DevOps. 
-  Now, I’m diving head-first into <b>systems programming</b>, <b>compilers</b>, and the <b>Rust ecosystem</b>.  
-  I thrive where software meets hardware — crafting safe, fast, and efficient code.
+  Now, I’m diving head first into <b>systems programming</b>, <b>compilers</b>, and the <b>Rust ecosystem</b>.  
+  I thrive where software meets hardware crafting safe, fast, and efficient code.
 </h4>
 
 <h2 align="left">About Me 😁</h2>
@@ -12,7 +12,7 @@
   🔭 Deep-diving into: <b>Systems programming</b>, <b>compilers</b>, and the <b>Rust ecosystem</b><br>
   🦀 Advocate for: <b>Safe, fast, and reliable software</b><br>
   🤝 Looking to collaborate on: <b>Rust</b>, <b>low-level projects</b>, and <b>compiler toolchains</b><br>
-  💡 Still fluent in: <b>TypeScript</b>, <b>Go</b>, <b>DevOps</b>, and <b>Web Development</b> — but my heart beats in <code>cargo run</code>
+  💡 Still fluent in: <b>TypeScript</b>, <b>Go</b>, <b>DevOps</b>, and <b>Web Development</b> but my heart beats in <code>cargo run</code>
 </p>
 
 <h2 align="left">I Code With 🧑‍💻</h2>
