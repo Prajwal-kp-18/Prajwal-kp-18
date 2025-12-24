@@ -1,4 +1,4 @@
-<h1 align="left">Hello</h1>
+<h1 align="left">Hello 👋</h1>
 <h4 align="left">
   Hi, I'm <b>Prajwal</b>, a software engineer from Bengaluru specializing in systems programming and infrastructure. 
   I started my journey building web applications, then transitioned into infrastructure automation with DevOps. 
