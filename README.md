@@ -60,8 +60,27 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=prajwal-kp-18&label=Profile%20views&color=0e75b6&style=flat" alt="prajwal-kp-18" />
 </p>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajwal-kp-18&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=prajwal-kp-18&theme=midnight-purple&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-kp-18&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=5&card_width=320&cache_seconds=86400" height="150"/>
+<div align="center" style="line-height:0;">
+  <!-- Top card -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwal-kp-18&theme=2077"
+    style="display:block; margin:0 auto;"
+  />
+
+  <!-- Bottom row -->
+  <div style="white-space:nowrap;">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prajwal-kp-18&theme=2077"
+      height="165"
+      style="display:inline-block; margin:0;"
+    />
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prajwal-kp-18&theme=2077"
+      height="165"
+      style="display:inline-block; margin:0;"
+    />
+  </div>
 </div>
+
+
+
