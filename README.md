@@ -61,7 +61,7 @@
   <img src="https://komarev.com/ghpvc/?username=prajwal-kp-18&label=Profile%20views&color=0e75b6&style=flat" alt="prajwal-kp-18" />
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prajwal-kp-18&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwal-kp-18&theme=midnight-purple&hide_border=true" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prajwal-kp-18&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=5&card_width=320" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prajwal-kp-18&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=prajwal-kp-18&theme=midnight-purple&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-kp-18&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=5&card_width=320&cache_seconds=86400" height="150"/>
 </div>
